@@ -1,3 +1,5 @@
+/*
+
 package test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -63,3 +65,5 @@ public class TestFuncionalidades {
 		assertTrue(ok, "Hay un problema en el metodo fabricaMayorVentas");
     }
 }
+
+ */
