@@ -54,7 +54,6 @@ public class Vehiculo {
     public void setPlaca(String placa){
         this.placa=placa;
     }
-
     public void setPuertas(int puertas){
         this.puertas=puertas;
     }
